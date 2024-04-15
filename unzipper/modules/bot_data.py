@@ -70,7 +70,7 @@ Don't go AFK next time 😉
     BANNED = """
 **Sorry you're banned 💀**
 
-Report this at @EDM115_chat if you think this is a mistake, I may unban you
+Report this at @kxzen_bots if you think this is a mistake, I may unban you
     """
 
     NEW_USER_BAD = """
@@ -121,7 +121,7 @@ This may take a while, go grab a coffee ☕️
 
     LOG_CHECKED = "Log channel checked"
 
-    BOT_RUNNING = "Bot is running now ! Join @EDM115bots"
+    BOT_RUNNING = "Bot is running now ! Join @kxzen_bots"
 
     WRONG_LOG = """
 Error : the provided **LOGS_CHANNEL** (`{}`) is incorrect
@@ -233,7 +233,7 @@ Hi **{}** 👋, I'm **Unarchiver bot** 🥰
 I can extract any archive, with password or not, splitted, …
 Send **/commands** to learn more
 
-**Made with ❤️ by @EDM115bots**
+**alien x**
 **/donate** if you can 🥺
     """
 
@@ -260,7 +260,7 @@ Send **/commands** to learn more
 
 **• I wanna have help 🥺**
 
-    PM me at **@EDM115** or join the chat **@EDM115_chat**
+    PM me at **@** or join the chat ****
     """
 
     ABOUT_TXT = """
@@ -268,29 +268,16 @@ Send **/commands** to learn more
 
 • **Language :** [Python 3.12.1](https://www.python.org/)
 • **Framework :** [Pyrogram 2.0.106](https://pyrogram.org/)
-• **Source code :** [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot)
-• **Developer :** [EDM115](https://github.com/EDM115)
+• **Source code :** [EDM115/unzip-bot](https://github.com)
+• **Developer :** [EDM115](https://github.com/)
 
-**[Rate me ⭐](https://t.me/BotsArchive/2705)**
-Made with ❤️ by **@EDM115bots**
+**[Rate me ⭐](https://t.me)**
+Made with ❤️ by ****
     """
 
     DONATE_TEXT = """
 --**NOT AVAILABLE YET !**--
 
-I'm going to be honest : **this bot costs me money**…
-Nothing's free on this world, however I try to keep this bot for free for as many people as possible
-I don't like to put restrictions, nor getting your PM's flooded with ads…
-
-So if you can, donate :)
-It helps out a ton, covers the costs (hosting, updating, … 👨‍💻)
-
---How ?--
-• **[Paypal](https://www.paypal.me/8EDM115)**
-• **[GitHub Sponsors](https://github.com/sponsors/EDM115)**
-• **[Directly in Telegram](https://t.me/EDM115bots/544)**
-• **[BuyMeACoffee](https://www.buymeacoffee.com/edm115)**
-• **[Send cryptos (not recommended)](https://edm115.shadd.eu.org/)**
 
 Thanks for your contribution 😊
 
@@ -300,45 +287,7 @@ Donation doesn't count as a VIP subscription. Check **/vip** for more info
 
     VIP_INFO = """
 --**NOT AVAILABLE YET !**--
-
-Wanna help the developer of this __amazing__ bot ?
-Here's how : Become a VIP user and benefit from extra perks !
-
-**VIP perks :**
-- No max tasks limit
-- No AFK timeout
-- Get a better support
-- Upload files up to 4Gb
-- Early access to new features
-- Access a second bot exclusive to VIPs __(subject to conditions)__
-- And more…
-
-**What's the price ?**
-- `1$/month`
-- `10$/year`
-
-**How to become a VIP ?**
-1) Send **/pay** to the bot
-2) Choose your subscription
-3) Send a screenshot of your payment to **@EDM115**
-4) Enjoy your VIP perks !
-
-**What happens when my subscription ends ?**
-If you choosed GitHub Sponsors, Telegram Donate or BuyMeACoffee, you will be automatically renewed until you cancel it
-If you choosed PayPal, you will have to redo the 4 above steps
-You will be notified few days before you subscription ends so you can check if you want to renew it or not
-
-**I wanna cancel my subscription**
-Just send **/stoppay** and follow the instructions according to the platform you selected
-Your payment will be cancelled and you will keep your VIP perks until the end of your subscription
-(i.e. if you paid for 1 month, from 05/01/2024 to 05/02/2024 and you cancel your subscription on 15/01/2024, your perks will stay until 05/02/2024)
-
-**What is the referral system ?**
-Referrals have benefits for both sides :)
-- For the referrer : you get 1 month of VIP for free for each 3 new VIPs you bring
-- For the referred : you get 1 month of VIP for free if you take the monthly subscription, and 3 months for free if you take the yearly subscription
-How to input the referral code ? Just send **/pay** to the bot and follow the instructions
-    """
+"""
 
     VIP_REQUIRED_MESSAGE = """
 Use this command as a reply to a messsage, where you have the following (ONE PER LINE) :
@@ -512,7 +461,7 @@ That's not an archive 💀
 
     DEF_NOT_AN_ARCHIVE = """
 This file is NOT an archive 😐
-If you believe it's an error, send the file to **@EDM115**
+If you believe it's an error, send the file to ****
     """
 
     PROCESSING2 = "`Processing… ⏳`"
@@ -675,7 +624,7 @@ If it fails again, it means that {} haven't started the bot yet (or deleted the 
     REPORT_DONE = """
 Report sucessfully sent ! An answer will arrive soon
 
-Note : if you need to reply to replies, always use that /report command (or join **@EDM115_chat**)
+Note : if you need to reply to replies, always use that /report command (or join ****)
     """
 
     BAN_ID = "Give an user id to ban 😈"
@@ -815,7 +764,7 @@ Here's all the commands that only the owner (you) can use :
 **/maintenance** : Put the bot in or out of maintenance mode. No tasks can be processed while on
 **/cleanall** : Same as `/clean`, but for the whole server
 **/cleantasks** : Same as `/cleanall`, plus removes them from the database
-**/logs** : Send you the logs (all of them). Useful for bug tracking. Send them to **@EDM115** if you don't understand them/need help
+**/logs** : Send you the logs (all of them). Useful for bug tracking. Send them to **** if you don't understand them/need help
 **/restart** : Does a basic restart, less intrusive as the `/redbutton` one
 **/dbexport** : ~~Exports the whole database as CSV~~ __Does nothing yet__
 **/addvip {user_id, subscription, ends, used, billed, early, donator, started, successful, gap, gifted, referral, lifetime}** : __Not available yet__ Add an user to the VIP database
@@ -1043,7 +992,7 @@ class Buttons:
         [
             [
                 InlineKeyboardButton(
-                    Messages.RATE, url="https://t.me/BotsArchive/2705"
+                    Messages.RATE, url="https://t.me/"
                 ),
                 InlineKeyboardButton(Messages.DONATE, callback_data="donatecallback"),
             ],
