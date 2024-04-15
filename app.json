@@ -10,8 +10,8 @@
         "unzipper bot"
     ],
     "website": "https://edm115.dev/unzip",
-    "repository": "https://github.com/EDM115/unzip-bot",
-    "success_url": "https://t.me/EDM115bots",
+    "repository": "https://github.com/kishan-kumar-ji/unzip-bot-2/",
+    "success_url": "https://t.me/",
     "env": {
         "APP_ID": {
             "description": "Your APP_ID from my.telegram.org",
